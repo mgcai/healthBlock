@@ -1,0 +1,3 @@
+Our application is over HTTP using GET and POST commands. Blockchain has several important features that needed to be implemented. Perhaps the hardest was making an proof of work system. The proof of work system hashes a guess with the previous proof and hash so that the blockchain is connected. This prevents someone else from making a larger chain easily which would override consensus chain.
+
+We built this using the Flask and Python. We used some starter code to get the framework of a blockchain in python but fixed some errors up and also added code to use Flask and encode the data which is being set over using JWT.
